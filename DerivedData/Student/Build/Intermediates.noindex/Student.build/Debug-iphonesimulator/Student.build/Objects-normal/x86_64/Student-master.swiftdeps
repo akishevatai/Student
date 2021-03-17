@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "b1aaedd03e1a1f7db38497562ebee09a"
+build_time: [1616013663, 77663000]
+inputs:
+  "/Users/ataiakishev/Desktop/Student/Student/AppDelegate.swift": [1600912651, 526205981]
+  "/Users/ataiakishev/Desktop/Student/Student/Student.swift": [1602812784, 756531482]
+  "/Users/ataiakishev/Desktop/Student/Student/Data Model.swift": [1602120947, 570197376]
+  "/Users/ataiakishev/Desktop/Student/Student/AvatarPickerViewController.swift": [1602816172, 517964619]
+  "/Users/ataiakishev/Desktop/Student/Student/AddStudentViewController.swift": [1607566024, 74779505]
+  "/Users/ataiakishev/Desktop/Student/Student/StudentTableViewController.swift": [1606261413, 404211107]
+  "/Users/ataiakishev/Desktop/Student/Student/SceneDelegate.swift": [1602208914, 177356427]
